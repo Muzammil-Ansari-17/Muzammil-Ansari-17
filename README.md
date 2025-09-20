@@ -18,7 +18,7 @@
   <a href="https://stackoverflow.com/users/your-user-id" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/muzammil_ahmed" target="_blank">
+  <a href="https://instagram.com/muzammil__ahmed" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/muzammil_ahmed_ansari" target="_blank">
