@@ -12,13 +12,13 @@
 ### Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/muzammil-fayyaz" target="_blank">
+  <a href="https://www.linkedin.com/in/muzammil-fayyaz-795455290/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/your-user-id" target="_blank">
+  <a href="https://stackoverflow.com/users/29054560/muzammil-ahmed?tab=profile" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/muzammil__ahmed" target="_blank">
+  <a href="https://www.instagram.com/muzammil____ahmed/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/muzammil_ahmed_ansari" target="_blank">
@@ -56,7 +56,7 @@
 
 ---
 
-### 📊 GitHub Stats (Dark Themed)
+### 📊 GitHub Stats (Dark Theme)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzammil-Ansari-17&layout=compact&theme=radical&bg_color=000000&border_color=30363d" alt="Top Languages" />
