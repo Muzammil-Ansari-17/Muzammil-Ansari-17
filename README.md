@@ -56,7 +56,7 @@
 
 ---
 
-### 📊 GitHub Stats (Dark Theme)
+### 📊 GitHub Stats 
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzammil-Ansari-17&layout=compact&theme=radical&bg_color=000000&border_color=30363d" alt="Top Languages" />
