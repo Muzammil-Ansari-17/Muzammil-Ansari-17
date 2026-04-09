@@ -59,7 +59,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://apex.oracle.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="Oracle APEX" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/oracle.svg" alt="Oracle APEX" width="40" height="40"/>
   </a>
 </p>
 
@@ -68,13 +68,13 @@
 ### 📊 GitHub Stats 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzammil-Ansari-17&layout=compact&theme=radical&bg_color=000000&border_color=30363d" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzammil-Ansari-17&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muzammil-Ansari-17&show_icons=true&theme=radical&bg_color=000000&border_color=30363d" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muzammil-Ansari-17&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzammil-Ansari-17&theme=radical&background=000000&border=30363d" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzammil-Ansari-17&theme=radical" alt="GitHub Streak" />
 </p>
