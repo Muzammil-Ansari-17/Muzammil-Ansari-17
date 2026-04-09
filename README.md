@@ -59,7 +59,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://apex.oracle.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/oracle.svg" alt="Oracle APEX" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="Oracle APEX" width="40" height="40"/>
   </a>
 </p>
 
