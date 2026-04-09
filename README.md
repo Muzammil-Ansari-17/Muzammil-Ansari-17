@@ -68,11 +68,11 @@
 ### 📊 GitHub Stats 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzammil-Ansari-17&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzammil-Ansari-17&layout=compact&theme=radical&hide_border=false&count_private=true" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muzammil-Ansari-17&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muzammil-Ansari-17&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="left">
