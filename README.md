@@ -1,94 +1,26 @@
-<h1 align="center">Hi 👋, I'm Muzammil Ahmed</h1>
-<h3 align="center">🧩 Breaking Problems, Building Solutions</h3>
+<!-- DARK AESTHETIC HEADER -->
+<h1 align="center">Hey 👋, I'm Muzammil Ahmed</h1>
+<h3 align="center">🧠 Breaking Problems | ⚙️ Building Solutions | 🚀 Learning Every Day</h3>
+
+---
+
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-0e75b6?style=for-the-badge&logo=codeforces" />
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-darkgreen?style=for-the-badge&logo=mongodb" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muzammil-Ansari-17&label=Profile%20views&color=0e75b6&style=flat" alt="Muzammil-Ansari-17" />
-</p>
-
-- 📫 How to reach me: **muzammilahmed0888@gmail.com**
-
----
-
-### Connect with me
-
-<p align="left" style="display: flex; gap: 10px; align-items: center;">
-
-  <a href="https://www.linkedin.com/in/muzammil-fayyaz-795455290/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-
-  <a href="https://stackoverflow.com/users/29054560/muzammil-ahmed?tab=profile" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
-  </a>
-
-  <a href="https://www.instagram.com/muzammil____ahmed/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-
-  <a href="https://leetcode.com/muzammil_ahmed_ansari" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
-
+  <img src="https://komarev.com/ghpvc/?username=Muzammil-Ansari-17&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://apex.oracle.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/oracle.svg" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats 
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzammil-Ansari-17&layout=compact&theme=radical" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muzammil-Ansari-17&show_icons=true&theme=radical" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzammil-Ansari-17&theme=radical" />
-</p>
+## 🚀 About Me
+```txt
+💡 Passionate about full-stack development  
+🧩 Love solving real-world problems  
+📚 Currently exploring React, Node.js, and System Design  
+🎯 Goal: Become a top-tier software engineer
